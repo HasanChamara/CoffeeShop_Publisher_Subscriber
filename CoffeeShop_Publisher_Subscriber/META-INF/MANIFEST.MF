@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: CoffeeShop_Publisher_Subscriber
+Bundle-SymbolicName: CoffeeShop_Publisher_Subscriber
+Bundle-Version: 1.0.0.qualifier
+Bundle-Activator: coffeeshopservicesubscriber.CoffeeServiceActivator
+Bundle-RequiredExecutionEnvironment: JavaSE-15
+Automatic-Module-Name: CoffeeShop.Publisher.Subscriber
+Import-Package: org.osgi.framework;version="1.3.0"
